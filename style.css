@@ -1,0 +1,22 @@
+.card { 
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    flex-direction: none;
+    max-height: 100vh;
+}
+
+body { 
+    background-color: black;
+}
+
+.card img {
+    
+    margin: 10px;
+    border: 3px solid rgb(158, 36, 132); 
+    box-shadow: 2px 2px 4px 4px rgb(158, 36, 132);
+    max-width: 23vh;
+    height: 60px;
+    width: 100px;
+
+}
